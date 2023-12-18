@@ -1,0 +1,11 @@
+.circleIconButton_d8df29 {
+    cursor: pointer;
+    display: none !important;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    width: 0px;
+    height: 0px;
+    color: black;
+    background-color: var(--background-primary);
+}
