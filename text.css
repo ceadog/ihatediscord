@@ -1,11 +1,6 @@
-.circleIconButton_d8df29 {
-    cursor: pointer;
+.circleIconButton_d8df29 .wrapper__3af0b .wrapper__55afe,.activeWrapper__95162 .circleIcon__428dd{
+    cursor: none;
     display: none !important;
-    align-items: center;
-    justify-content: center;
-    box-sizing: border-box;
-    width: 0px;
-    height: 0px;
-    color: black;
+    color: white;
     background-color: var(--background-primary);
 }
